@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Comforter+Brush&family=Island+Moments&family=Marck+Script&family=Permanent+Marker&family=Poppins&family=Roboto:ital,wght@1,900&family=Slabo+27px&display=swap');
+       * {
+         margin: 0;
+         padding: 0;
+        }
+        body {
+         background-image: url(../image/plan.jpg);
+         height: 100vh;
+         background-size: cover;
+        }
+        
